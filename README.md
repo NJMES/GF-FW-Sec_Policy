@@ -1,2 +1,3 @@
-# GF-FW-Sec_Policy
-Workbook-Template for GreenField Firewall Security Policy Deployment.
+# Workbook-Template for GreenField Security Policy Deployment    
+**Project Summary:**
+The project's primary objective is to streamline the configuration of firewall values and settings by providing users with an intuitive Excel template. This template will serve as a user-friendly interface for specifying their desired firewall configurations. Once users have completed the Excel worksheet, the system will automatically convert the provided settings into firewall Command Line Interface (CLI) configurations. This approach simplifies and accelerates the configuration process, making it more accessible and efficient for users, while ensuring accurate and consistent firewall settings.
